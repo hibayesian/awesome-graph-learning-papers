@@ -26,6 +26,6 @@ A curated list of graph learning papers, articles, tutorials, slides and project
   + **Download:** [PDF](https://arxiv.org/pdf/1812.08434.pdf)
   + **Keywords:** Deep Learning, Graph Neural Network 
   + **Highlights:** This paper
-    + provides a detailed review over existing graph neural network models and their varients in terms of graph tyeps(directed graphs, heterogeneous graphs, graphs with edge information, dynamic graphs), propagation types(convolutions, attention, skip connection, hierarchical pooling), and training methods(sampling, receptive field control, data augmentation, unsupervised training). Moreover, it also introduces serveral general frameworks(MPNN, NLNN, GN).
+    + provides a detailed review over existing graph neural network models and their varients in terms of graph types(directed graphs, heterogeneous graphs, graphs with edge information, dynamic graphs), propagation types(convolution, gate, attention, skip connection, hierarchical pooling), and training methods(sampling, receptive field control, data augmentation, unsupervised training). Moreover, it also introduces serveral general frameworks(MPNN, NLNN, GN).
     + systematically categorizes the applications and divides the applications into structural scenarios, non-structural scenarios and other scenarios.
     + proposes four open problems(shallow structure, dynamic graphs, non-structural scenarios, scalability) for future research.
