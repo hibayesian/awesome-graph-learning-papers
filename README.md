@@ -7,7 +7,7 @@ A curated list of graph learning papers, articles, tutorials, slides and project
   
 
 ## Survey
-+ A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications
++ **A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications**
   + **Authors:** Hongyun Cai, Vencent W. Zheng, and Kevin Chen-Chuan Chang
   + **Affiliation:** Advanced Digital Sciences Center, University of Illinois
   + **Publiser:** IEEE
@@ -18,7 +18,7 @@ A curated list of graph learning papers, articles, tutorials, slides and project
     +  introduces the formal definition of graph embedding as well as the related concepts.
     +  proposes two taxonomies of graph embedding which correspond to what challenges exist in different graph embedding problem settings and how the existing work address these challenges in their solutions.
     +  summarizes the applications that graph embedding enables and suggests four promising future research directions in terms of computation efficiency, problem settings, techniques and application scenarios.
-+ Graph Neural Networks: A Review of Methods and Applications
++ **Graph Neural Networks: A Review of Methods and Applications**
   + **Authors:** Jie Zhou, Ganqu Cui, Zhengyan Zhang, et al.
   + **Affiliation:** Tsinghua University, Tencent
   + **Publisher:** arXiv
