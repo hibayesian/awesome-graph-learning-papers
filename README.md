@@ -8,10 +8,15 @@ A curated list of graph learning papers, articles, tutorials, slides and project
 
 
 ## Researcher
-+ Yizhou Sun (孙怡舟)
++ Yizhou Sun (???)
+  + Professor
+  + School of Data Science, School of Information Science and Technology, University of Science and Technology of China
+  + Email: xiangnanhe@gmail.com
+  + HomePage: http://staff.ustc.edu.cn/~hexn/
++ Yizhou Sun (???)
   + Associate Professor
   + Department of Computer Science, University of California, Los Angeles
-  + Email:  yzsun@cs.ucla.edu
+  + Email: yzsun@cs.ucla.edu
   + HomePage: http://web.cs.ucla.edu/~yzsun/index.html
 
 ## Survey
