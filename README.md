@@ -8,12 +8,12 @@ A curated list of graph learning papers, articles, tutorials, slides and project
 
 
 ## Researcher
-+ Yizhou Sun (???)
++ Xiangnan He (何向南)
   + Professor
   + School of Data Science, School of Information Science and Technology, University of Science and Technology of China
   + Email: xiangnanhe@gmail.com
   + HomePage: http://staff.ustc.edu.cn/~hexn/
-+ Yizhou Sun (???)
++ Yizhou Sun (孙怡舟)
   + Associate Professor
   + Department of Computer Science, University of California, Los Angeles
   + Email: yzsun@cs.ucla.edu
@@ -42,5 +42,4 @@ A curated list of graph learning papers, articles, tutorials, slides and project
     + provides a detailed review over existing graph neural network models and their varients in terms of graph types(directed graphs, heterogeneous graphs, graphs with edge information, dynamic graphs), propagation types(convolution, gate, attention, skip connection, hierarchical pooling), and training methods(sampling, receptive field control, data augmentation, unsupervised training). Moreover, serveral general frameworks(MPNN, NLNN, GN) are introduced in this paper.
     + systematically categorizes the applications and divides the applications into structural scenarios, non-structural scenarios and other scenarios.
     + proposes four open problems(shallow structure, dynamic graphs, non-structural scenarios, scalability) for future research.
-
 
