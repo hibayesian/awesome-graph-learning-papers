@@ -12,7 +12,7 @@ A curated list of graph learning papers, articles, tutorials, slides and project
   + Assistant Professor
   + McGill University
   + Email: wlh@cs.mcgill.ca
-  + https://williamleif.github.io/
+  + HomePage: https://williamleif.github.io/
 + Xiangnan He (何向南)
   + Professor
   + School of Data Science, School of Information Science and Technology, University of Science and Technology of China
