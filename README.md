@@ -8,6 +8,11 @@ A curated list of graph learning papers, articles, tutorials, slides and project
 
 
 ## Researcher
++ William L. Hamilton
+  + Assistant Professor
+  + McGill University
+  + Email: wlh@cs.mcgill.ca
+  + https://williamleif.github.io/
 + Xiangnan He (何向南)
   + Professor
   + School of Data Science, School of Information Science and Technology, University of Science and Technology of China
@@ -42,4 +47,15 @@ A curated list of graph learning papers, articles, tutorials, slides and project
     + provides a detailed review over existing graph neural network models and their varients in terms of graph types(directed graphs, heterogeneous graphs, graphs with edge information, dynamic graphs), propagation types(convolution, gate, attention, skip connection, hierarchical pooling), and training methods(sampling, receptive field control, data augmentation, unsupervised training). Moreover, serveral general frameworks(MPNN, NLNN, GN) are introduced in this paper.
     + systematically categorizes the applications and divides the applications into structural scenarios, non-structural scenarios and other scenarios.
     + proposes four open problems(shallow structure, dynamic graphs, non-structural scenarios, scalability) for future research.
-
++ **Representation Learning on Graphs: Methods and Applications**
+  + **Authors:** William L. Hamilton, Rex Ying, Jure Leskovec
+  + **Affiliation:** Stanford University
+  + **Publisher:** IEEE
+  + **Year of Publication:** 2017
+  + **Download:** [PDF](https://arxiv.org/pdf/1709.05584.pdf)
+  + **Keywords:** Representation Learning, Deep Learning, Node Embedding
+  + **Highlights:** This paper
+    + provides a conceptual review of key advancedments in this area of representation learning on graphs, including matrix factorization-based methods, random-walk based algorithms, and graph neural networks.
+    + reviews methods to embed individual nodes as well as approaches to embed entire(sub) graphs.
+    + develops a unified framework(an encoder-decode perspective) to describe these recent approaches.
+    + highlights a number of important applications and directions for future work.
