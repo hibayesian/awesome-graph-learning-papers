@@ -57,5 +57,5 @@ A curated list of graph learning papers, articles, tutorials, slides and project
   + **Highlights:** This paper
     + provides a conceptual review of key advancedments in this area of representation learning on graphs, including matrix factorization-based methods, random-walk based algorithms, and graph neural networks.
     + reviews methods to embed individual nodes as well as approaches to embed entire(sub) graphs.
-    + develops a unified framework(an encoder-decode perspective) to describe these recent approaches.
+    + develops a unified framework(an encoder-decoder perspective) to describe these recent approaches.
     + highlights a number of important applications and directions for future work.
