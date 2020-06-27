@@ -36,6 +36,19 @@ A curated list of graph learning papers, articles, tutorials, slides and project
     +  introduces the formal definition of graph embedding as well as the related concepts.
     +  proposes two taxonomies of graph embedding which correspond to what challenges exist in different graph embedding problem settings and how the existing work address these challenges in their solutions.
     +  summarizes the applications that graph embedding enables and suggests four promising future research directions in terms of computation efficiency, problem settings, techniques and application scenarios.
++ **A Comprehensive Survey on Graph Neural Networks**
+  + **Authors:** Zonghan Wu, Shirui Pan, Fengwen Chen, et al.
+  + **Affiliation:** University Of Technology Sydney, Monash University, University of Illinois at Chicago
+  + **Publisher:** IEEE
+  + **Year of Publication:** 2019
+  + **Download:** [PDF](https://ieeexplore.ieee.org/document/9046288)
+  + **Keywords:** Deep Learning, Graph Neural Networks, Graph Convolutional Networks, Graph Representation Learning, Graph Autoencoder, Network Embedding
+  + **Highlights:** This paper
+    + provides a comprehensive overview of graph neural networks in data mining and machine learning fields.
+    + proposes a new taxonomy to divide the state-of-the-art graph neural networks, convolutional graph neural networks, graph autoencoder, and spatial-temporal graph neural networks.
+    + discusses the applications of graph neural networks across various domains.
+    + summarizes the open source codes, benchmark data sets, and model evaluation of graph neural networks.
+    + proposes potential research directions in this rapidly growing field.
 + **Graph Neural Networks: A Review of Methods and Applications**
   + **Authors:** Jie Zhou, Ganqu Cui, Zhengyan Zhang, et al.
   + **Affiliation:** Tsinghua University, Tencent
