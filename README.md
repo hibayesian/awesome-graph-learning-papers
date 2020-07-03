@@ -45,7 +45,7 @@ A curated list of graph learning papers, articles, tutorials, slides and project
   + **Keywords:** Deep Learning, Graph Neural Networks, Graph Convolutional Networks, Graph Representation Learning, Graph Autoencoder, Network Embedding
   + **Highlights:** This paper
     + provides a comprehensive overview of graph neural networks in data mining and machine learning fields.
-    + proposes a new taxonomy to divide the state-of-the-art graph neural networks, convolutional graph neural networks, graph autoencoder, and spatial-temporal graph neural networks.
+    + proposes a new taxonomy to divide the state-of-the-art graph neural networks into four categories, namely recurrent graph neural networks, convolutional graph neural networks, graph autoencoder, and spatial-temporal graph neural networks.
     + discusses the applications of graph neural networks across various domains.
     + summarizes the open source codes, benchmark data sets, and model evaluation of graph neural networks.
     + proposes potential research directions in this rapidly growing field.
