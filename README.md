@@ -8,6 +8,11 @@ A curated list of graph learning papers, articles, tutorials, slides and project
 
 
 ## Researcher
++ Jian Tang
+  + Assistant Professor
+  + HEC Montreal
+  + Email: tangjianpku@gmail.com
+  + HomePage: https://jian-tang.com/
 + William L. Hamilton
   + Assistant Professor
   + McGill University
