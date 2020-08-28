@@ -3,9 +3,20 @@ A curated list of graph learning papers, articles, tutorials, slides and project
 
 
 # Table of Contents
++ [Book](#book)
 + [Researcher](#researcher)
 + [Survey](#survey)
 
+## Book
++ **Graph Representation Learning**
+  + **Authors:** William L. Hamilton
+  + **Affiliation:** McGill University
+  + **Pubslisher:** Morgan & Claypool
+  + **Year of Publication:** 2020
+  + **Download:** [PDF](https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf)
+  + **Keywords:** Node Embedding, Graph Neural Network, Generative Graph Models
+  + **Highlights:** This book
+    + provides a brief but comprehensive introduction to graph representation learning, including methods for embedding graph data, graph neural networks, and deep generative models of graphs.
 
 ## Researcher
 + Jian Tang
