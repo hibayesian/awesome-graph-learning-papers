@@ -11,7 +11,7 @@ A curated list of graph learning papers, articles, tutorials, slides and project
 + **Graph Representation Learning**
   + **Authors:** William L. Hamilton
   + **Affiliation:** McGill University
-  + **Pubslisher:** Morgan & Claypool
+  + **Publisher:** Morgan & Claypool
   + **Year of Publication:** 2020
   + **Download:** [PDF](https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf)
   + **Keywords:** Node Embedding, Graph Neural Network, Generative Graph Models
