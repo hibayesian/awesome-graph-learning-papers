@@ -90,6 +90,7 @@ A curated list of graph learning papers, articles, tutorials, slides and project
     + develops a unified framework(an encoder-decoder perspective) to describe these recent approaches.
     + highlights a number of important applications and directions for future work.
 
+## Tutorial
 + **Deep Graph Learning: Foundations, Advances and Applications**
   + **Authors:** Yu Rong, Tingyang Xu, et al.
   + **Affiliation:** Tencent AI Lab, Tsinghua University, Michigan State University, Vanderbilt University, IBM Research AI
