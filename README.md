@@ -6,6 +6,7 @@ A curated list of graph learning papers, articles, tutorials, slides and project
 + [Book](#book)
 + [Researcher](#researcher)
 + [Survey](#survey)
++ [Tutorial](#tutorial)
 
 ## Book
 + **Graph Representation Learning**
@@ -88,3 +89,12 @@ A curated list of graph learning papers, articles, tutorials, slides and project
     + reviews methods to embed individual nodes as well as approaches to embed entire(sub) graphs.
     + develops a unified framework(an encoder-decoder perspective) to describe these recent approaches.
     + highlights a number of important applications and directions for future work.
+
++ **Deep Graph Learning: Foundations, Advances and Applications**
+  + **Authors:** Yu Rong, Tingyang Xu, et al.
+  + **Affiliation:** Tencent AI Lab, Tsinghua University, Michigan State University, Vanderbilt University, IBM Research AI
+  + **Download:** [Link](https://ai.tencent.com/ailab/ml/KDD-Deep-Graph-Learning.html)
+  + **Keywords:** Deep Graph Learning
+  + **Abstract:**
+    + Many real data come in the form of non-grid objects, i.e. graphs, from social networks to molecules. Adaptation of deep learning from grid-alike data (e.g. images) to graphs has recently received unprecedented attention from both machine learning and data mining communities, leading to a new cross-domain field---Deep Graph Learning (DGL). Instead of painstaking feature engineering, DGL aims to learn informative representations of graphs in an end-to-end manner. It has exhibited remarkable success in various tasks, such as node/graph classification, link prediction, etc.
+    + In this tutorial, we aim to provide a comprehensive introduction to deep graph learning. We first introduce the theoretical foundations on deep graph learning with a focus on describing various Graph Neural Network Models (GNNs). We then cover the key achievements of DGL in recent years. Specifically, we discuss the four topics: 1) training deep GNNs; 2) robustness of GNNs; 3) scalability of GNNs; and 4) self-supervised and unsupervised learning of GNNs. Finally, we will introduce the applications of DGL towards various domains, including but not limited to drug discovery, computer vision, medical image analysis, social network analysis, natural language processing and recommendation.
