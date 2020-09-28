@@ -66,6 +66,18 @@ A curated list of graph learning papers, articles, tutorials, slides and project
     + discusses the applications of graph neural networks across various domains.
     + summarizes the open source codes, benchmark data sets, and model evaluation of graph neural networks.
     + proposes potential research directions in this rapidly growing field.
++ **A Survey on Knowledge Graph-Based Recommender Systems**
+  + **Authors:** Qingyu Guo, Fuzhen Zhuang, et al.
+  + **Affiliation:** Chinese Academy of Sciences (CAS), Hong Kong University of Science and Technology, University of Science and Technology of China, Baidu Talent Intelligence Center, Baidu Research, Microsoft Research Asia
+  + **Publisher:** arXiv
+  + **Year of Publication:** 2020
+  + **Download:** [PDF](https://arxiv.org/pdf/2003.00911.pdf)
+  + **Keywords:** Knowledge Graph, Recommender System, Explainable Recommendation
+  + **Highlights:** This paper
+    + conducts a systematical survey of knowledge graph-based recommender systems.
+    + investigates the proposed algorithms by focusing on how the papers utilize the knowledge graph for accurate and explainable recommendation.
+    + introduces datasets used in these works.
+    + proposes several potential research directions in this field.
 + **Graph Neural Networks: A Review of Methods and Applications**
   + **Authors:** Jie Zhou, Ganqu Cui, Zhengyan Zhang, et al.
   + **Affiliation:** Tsinghua University, Tencent
