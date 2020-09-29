@@ -16,7 +16,7 @@ A curated list of graph learning papers, articles, tutorials, slides and project
   + **Year of Publication:** 2020
   + **Download:** [PDF](https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf)
   + **Keywords:** Node Embedding, Graph Neural Network, Generative Graph Models
-  + **Highlights:** This book
+  + **Abstract:** This book
     + provides a brief but comprehensive introduction to graph representation learning, including methods for embedding graph data, graph neural networks, and deep generative models of graphs.
 
 ## Researcher
@@ -49,7 +49,7 @@ A curated list of graph learning papers, articles, tutorials, slides and project
   + **Year of Publication:** 2018
   + **Download:** [PDF](https://ieeexplore.ieee.org/document/8294302)
   + **Keywords:** Graph Embedding, Graph Analytics, Graph Embedding Survey, Network Embedding
-  + **Highlights:** This paper
+  + **Abstract:** This paper
     +  introduces the formal definition of graph embedding as well as the related concepts.
     +  proposes two taxonomies of graph embedding which correspond to what challenges exist in different graph embedding problem settings and how the existing work address these challenges in their solutions.
     +  summarizes the applications that graph embedding enables and suggests four promising future research directions in terms of computation efficiency, problem settings, techniques and application scenarios.
@@ -60,7 +60,7 @@ A curated list of graph learning papers, articles, tutorials, slides and project
   + **Year of Publication:** 2019
   + **Download:** [PDF](https://ieeexplore.ieee.org/document/9046288)
   + **Keywords:** Deep Learning, Graph Neural Networks, Graph Convolutional Networks, Graph Representation Learning, Graph Autoencoder, Network Embedding
-  + **Highlights:** This paper
+  + **Abstract:** This paper
     + provides a comprehensive overview of graph neural networks in data mining and machine learning fields.
     + proposes a new taxonomy to divide the state-of-the-art graph neural networks into four categories, namely recurrent graph neural networks, convolutional graph neural networks, graph autoencoder, and spatial-temporal graph neural networks.
     + discusses the applications of graph neural networks across various domains.
@@ -73,7 +73,7 @@ A curated list of graph learning papers, articles, tutorials, slides and project
   + **Year of Publication:** 2020
   + **Download:** [PDF](https://arxiv.org/pdf/2003.00911.pdf)
   + **Keywords:** Knowledge Graph, Recommender System, Explainable Recommendation
-  + **Highlights:** This paper
+  + **Abstract:** This paper
     + conducts a systematical survey of knowledge graph-based recommender systems.
     + investigates the proposed algorithms by focusing on how the papers utilize the knowledge graph for accurate and explainable recommendation.
     + introduces datasets used in these works.
@@ -85,7 +85,7 @@ A curated list of graph learning papers, articles, tutorials, slides and project
   + **Year of Publication:** 2019
   + **Download:** [PDF](https://arxiv.org/pdf/1812.08434.pdf)
   + **Keywords:** Deep Learning, Graph Neural Network 
-  + **Highlights:** This paper
+  + **Abstract:** This paper
     + provides a detailed review over existing graph neural network models and their varients in terms of graph types(directed graphs, heterogeneous graphs, graphs with edge information, dynamic graphs), propagation types(convolution, gate, attention, skip connection, hierarchical pooling), and training methods(sampling, receptive field control, data augmentation, unsupervised training). Moreover, serveral general frameworks(MPNN, NLNN, GN) are introduced in this paper.
     + systematically categorizes the applications and divides the applications into structural scenarios, non-structural scenarios and other scenarios.
     + proposes four open problems(shallow structure, dynamic graphs, non-structural scenarios, scalability) for future research.
@@ -96,7 +96,7 @@ A curated list of graph learning papers, articles, tutorials, slides and project
   + **Year of Publication:** 2017
   + **Download:** [PDF](https://arxiv.org/pdf/1709.05584.pdf)
   + **Keywords:** Representation Learning, Deep Learning, Node Embedding
-  + **Highlights:** This paper
+  + **Abstract:** This paper
     + provides a conceptual review of key advancedments in this area of representation learning on graphs, including matrix factorization-based methods, random-walk based algorithms, and graph neural networks.
     + reviews methods to embed individual nodes as well as approaches to embed entire(sub) graphs.
     + develops a unified framework(an encoder-decoder perspective) to describe these recent approaches.
